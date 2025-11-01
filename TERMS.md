@@ -50,12 +50,5 @@ To the fullest extent allowed by law, **we are not liable** for:
 
 ---
 
-## Contact
-
-For questions about these terms:  
-**support@recordbot.example** *(replace with your real email)*
-
----
-
 [← Back to Bot Page](README.md)  
 [Privacy Policy](PRIVACY.md)

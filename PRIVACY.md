@@ -50,12 +50,5 @@ You are solely responsible for:
 
 ---
 
-## Contact
-
-For privacy questions or data requests:  
-**support@recordbot.example** *(replace with your real email)*
-
----
-
 [← Back to Bot Page](README.md)  
 [Terms of Service](TERMS.md)
