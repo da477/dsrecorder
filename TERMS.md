@@ -1,7 +1,5 @@
 # Terms of Service
 
-**Last updated: November 1, 2025**
-
 By inviting or using **Record Bot** in your Discord server, you agree to these Terms of Service.
 
 ---

@@ -1,7 +1,5 @@
 # Privacy Policy
 
-**Last updated: November 1, 2025**
-
 This Privacy Policy explains how **Record Bot** ("the Bot", "we", "us") collects, uses, and handles information when you use the bot in your Discord server.
 
 ---

@@ -60,5 +60,4 @@ Start recording with `/record start`. Stops automatically when everyone leaves.
 
 ---
 
-*Updated: November 1, 2025*  
 [Privacy Policy](PRIVACY.md)  |  [Terms of Service](TERMS.md)
