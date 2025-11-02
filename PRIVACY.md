@@ -48,5 +48,5 @@ You are solely responsible for:
 
 ---
 
-[← Back to Bot Page](README.md)  
+[← Back to Main Page](README.md)  
 [Terms of Service](TERMS.md)

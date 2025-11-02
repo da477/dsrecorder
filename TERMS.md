@@ -48,5 +48,5 @@ To the fullest extent allowed by law, **we are not liable** for:
 
 ---
 
-[← Back to Bot Page](README.md)  
+[← Back to Main Page](README.md)  
 [Privacy Policy](PRIVACY.md)
