@@ -1,4 +1,4 @@
-# Record Your Discord Voice Chats with One Slash
+# Record Your Discord Voice Channels
 
 **Simple. Private. Reliable.**  
 Start recording with `/record start`. Stops automatically when everyone leaves.
